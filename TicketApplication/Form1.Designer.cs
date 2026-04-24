@@ -42,8 +42,8 @@
             this.cmbCategory = new System.Windows.Forms.ComboBox();
             this.txtDistance = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.exitButton = new System.Windows.Forms.Button();
+            this.clearButton = new System.Windows.Forms.Button();
             this.panelHeader.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -88,6 +88,7 @@
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(336, 22);
             this.txtName.TabIndex = 2;
+            this.txtName.TextChanged += new System.EventHandler(this.txtName_TextChanged);
             // 
             // label3
             // 
@@ -199,39 +200,39 @@
             this.btnCalculate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalculate.ForeColor = System.Drawing.SystemColors.Control;
-            this.btnCalculate.Location = new System.Drawing.Point(180, 376);
+            this.btnCalculate.Location = new System.Drawing.Point(172, 376);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(112, 32);
+            this.btnCalculate.Size = new System.Drawing.Size(120, 32);
             this.btnCalculate.TabIndex = 13;
             this.btnCalculate.Text = "CALCULATE";
             this.btnCalculate.UseVisualStyleBackColor = false;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
-            // button2
+            // exitButton
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.SystemColors.Control;
-            this.button2.Location = new System.Drawing.Point(449, 376);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(80, 32);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "EXIST";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.exitButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(220)))), ((int)(((byte)(50)))), ((int)(((byte)(50)))));
+            this.exitButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exitButton.ForeColor = System.Drawing.SystemColors.Control;
+            this.exitButton.Location = new System.Drawing.Point(449, 376);
+            this.exitButton.Name = "exitButton";
+            this.exitButton.Size = new System.Drawing.Size(80, 32);
+            this.exitButton.TabIndex = 14;
+            this.exitButton.Text = "EXIST";
+            this.exitButton.UseVisualStyleBackColor = false;
+            this.exitButton.Click += new System.EventHandler(this.button2_Click);
             // 
-            // button3
+            // clearButton
             // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.SystemColors.Control;
-            this.button3.Location = new System.Drawing.Point(328, 376);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(86, 32);
-            this.button3.TabIndex = 15;
-            this.button3.Text = "CLEAR";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.clearButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
+            this.clearButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.clearButton.ForeColor = System.Drawing.SystemColors.Control;
+            this.clearButton.Location = new System.Drawing.Point(328, 376);
+            this.clearButton.Name = "clearButton";
+            this.clearButton.Size = new System.Drawing.Size(86, 32);
+            this.clearButton.TabIndex = 15;
+            this.clearButton.Text = "CLEAR";
+            this.clearButton.UseVisualStyleBackColor = false;
+            this.clearButton.Click += new System.EventHandler(this.button3_Click);
             // 
             // Form1
             // 
@@ -239,8 +240,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
             this.ClientSize = new System.Drawing.Size(782, 451);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.clearButton);
+            this.Controls.Add(this.exitButton);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtDistance);
             this.Controls.Add(this.cmbCategory);
@@ -282,8 +283,8 @@
         private System.Windows.Forms.ComboBox cmbCategory;
         private System.Windows.Forms.TextBox txtDistance;
         private System.Windows.Forms.Button btnCalculate;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.Button clearButton;
     }
 }
 

@@ -8,3 +8,13 @@ C:\Users\7510\Downloads\TicketApplication\TicketApplication\obj\Debug\TicketAppl
 C:\Users\7510\Downloads\TicketApplication\TicketApplication\obj\Debug\TicketApplication.csproj.CoreCompileInputs.cache
 C:\Users\7510\Downloads\TicketApplication\TicketApplication\obj\Debug\TicketApplication.exe
 C:\Users\7510\Downloads\TicketApplication\TicketApplication\obj\Debug\TicketApplication.pdb
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\bin\Debug\TicketApplication.exe.config
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\bin\Debug\TicketApplication.exe
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\bin\Debug\TicketApplication.pdb
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.csproj.AssemblyReference.cache
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.Form1.resources
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.Properties.Resources.resources
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.csproj.GenerateResource.cache
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.csproj.CoreCompileInputs.cache
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.exe
+C:\Users\anees\Documents\CTU\SOFTWARE ENGINEERING LEVEL_2\SEMESTER 1\PM 24 APRIL\TicketApplicationSystem\TicketApplication\obj\Debug\TicketApplication.pdb

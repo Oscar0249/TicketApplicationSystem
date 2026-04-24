@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anees\\Documents\\CTU\\SOFTWARE ENGINEERING LEVEL_2\\SEMESTER 1\\PM 24 APRIL\\TicketApplicationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02FB78D-7E96-4863-B8A4-2850C7B505AC}|TicketApplication\\TicketApplication.csproj|c:\\users\\anees\\documents\\ctu\\software engineering level_2\\semester 1\\pm 24 april\\ticketapplicationsystem\\ticketapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C02FB78D-7E96-4863-B8A4-2850C7B505AC}|TicketApplication\\TicketApplication.csproj|solutionrelative:ticketapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02FB78D-7E96-4863-B8A4-2850C7B505AC}|TicketApplication\\TicketApplication.csproj|c:\\users\\anees\\documents\\ctu\\software engineering level_2\\semester 1\\pm 24 april\\ticketapplicationsystem\\ticketapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02FB78D-7E96-4863-B8A4-2850C7B505AC}|TicketApplication\\TicketApplication.csproj|solutionrelative:ticketapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anees\\Documents\\CTU\\SOFTWARE ENGINEERING LEVEL_2\\SEMESTER 1\\PM 24 APRIL\\TicketApplicationSystem\\TicketApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "TicketApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\anees\\Documents\\CTU\\SOFTWARE ENGINEERING LEVEL_2\\SEMESTER 1\\PM 24 APRIL\\TicketApplicationSystem\\TicketApplication\\Form1.cs*",
+              "RelativeToolTip": "TicketApplication\\Form1.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAADwv2cAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:03:30.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anees\\Documents\\CTU\\SOFTWARE ENGINEERING LEVEL_2\\SEMESTER 1\\PM 24 APRIL\\TicketApplicationSystem\\TicketApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "TicketApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\anees\\Documents\\CTU\\SOFTWARE ENGINEERING LEVEL_2\\SEMESTER 1\\PM 24 APRIL\\TicketApplicationSystem\\TicketApplication\\Form1.cs [Design]*",
+              "RelativeToolTip": "TicketApplication\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:03:26.535Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
